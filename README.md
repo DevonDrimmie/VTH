@@ -1,2 +1,0 @@
-# VTH
-Take home exercise
